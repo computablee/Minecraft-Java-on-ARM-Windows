@@ -1,3 +1,9 @@
+## This project has a new home!
+
+Due to GitHub's unfortunate new practice of using repositories to train Microsoft LLMs, I have made the difficult decision to migrate all of my projects to [Codeberg](https://codeberg.org/).
+
+[This project's new home can be found here.](https://codeberg.org/computablee/Minecraft-Java-on-ARM-Windows)
+
 # Minecraft Java Edition on ARM Windows
 
 So if you're anything like me, you often prefer playing on Java Minecraft because that's what all your friends have and you want to do a server together.
